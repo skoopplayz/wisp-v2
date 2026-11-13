@@ -1,0 +1,12 @@
+{
+  "name": "wisp-v2-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@mercuryworkshop/wisp-js": "^1.1.2"
+  }
+}
